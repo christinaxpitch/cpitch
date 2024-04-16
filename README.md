@@ -76,6 +76,3 @@ There is not enough criteria to merge any of these entries, so it remains unaffe
 
 # Test/Test Results
 The test compares the actual merged contacts with the expected merged contacts (expectedMerged). It uses the reflect.DeepEqual function to check if the two slices of contacts are equal. It verifies that the actual output matches the expected output to pass. If they are not equal, it reports an error, indicating that the test has failed.
-
-
-# Thank you!
